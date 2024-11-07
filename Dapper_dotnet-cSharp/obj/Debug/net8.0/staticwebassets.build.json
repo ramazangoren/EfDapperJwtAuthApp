@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mnqSJkZgjQPk1oTDROd2idGP4tQwjUMkeKnIqegjKPk=",
+  "Source": "dotnet-cSharp",
+  "BasePath": "_content/dotnet-cSharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
